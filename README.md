@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá! Meu nome é Anderson Heidrich Leite!
+
+Sou um Desenvolvedor Front-End com 3 anos de experiência em React.js, JavaScript e TypeScript, onde atuei no desenvolvimento e manutenção de sistemas voltados à interpretação de dados, criando interfaces eficientes e responsivas que auxiliaram na análise de perfis de clientes no segmento de restaurantes.
+
+Ao longo da minha trajetória, participei ativamente de projetos que ajudaram empresas a entender melhor o comportamento dos seus clientes, oferecendo informações úteis para apoiar decisões do dia a dia, sempre com foco em entregar soluções funcionais, intuitivas e voltadas à experiência do usuário.
+
+Apaixonado por tecnologia, estou sempre em busca de aprimoramento contínuo.
 
 <!--
 **andersonheidrich/andersonheidrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
