@@ -1,4 +1,4 @@
-## Olá! Meu nome é Anderson Heidrich Leite!
+## 👋 Olá! Meu nome é Anderson Heidrich Leite!
 
 Sou um Desenvolvedor Front-End com 3 anos de experiência em React.js, JavaScript e TypeScript, onde atuei no desenvolvimento e manutenção de sistemas voltados à interpretação de dados, criando interfaces eficientes e responsivas que auxiliaram na análise de perfis de clientes no segmento de restaurantes.
 
