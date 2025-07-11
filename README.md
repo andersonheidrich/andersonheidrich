@@ -1,3 +1,11 @@
+## 👋 Hi there! I'm Anderson Heidrich Leite!
+
+I am a Front-End Developer with 3 years of experience in React.js, JavaScript, and TypeScript, working on the development and maintenance of systems focused on data interpretation. I’ve created efficient and responsive interfaces that supported the analysis of customer profiles in the restaurant sector.
+
+Throughout my journey, I have actively contributed to projects that helped companies better understand customer behavior by providing useful insights to support daily decision-making—always with a focus on delivering functional, intuitive solutions centered on the user experience.
+
+Passionate about technology, I am constantly seeking continuous improvement.
+
 ## 👋 Olá! Meu nome é Anderson Heidrich Leite!
 
 Sou um Desenvolvedor Front-End com 3 anos de experiência em React.js, JavaScript e TypeScript, onde atuei no desenvolvimento e manutenção de sistemas voltados à interpretação de dados, criando interfaces eficientes e responsivas que auxiliaram na análise de perfis de clientes no segmento de restaurantes.
